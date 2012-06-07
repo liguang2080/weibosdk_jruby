@@ -1,6 +1,6 @@
 # WeibosdkJruby
 
-TODO: Write a gem description
+基于新浪官方提供的java sdk接口 用于jruby环境
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+1: 配置
+  config/weibo.yml
+  安装gem后会从config/weibo.yml读取环境配置
 
 ## Contributing
 

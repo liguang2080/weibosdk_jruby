@@ -14,4 +14,6 @@ Gem::Specification.new do |gem|
   gem.name          = "weibosdk_jruby"
   gem.require_paths = ["lib"]
   gem.version       = WeibosdkJruby::VERSION
+  
+  gem.add_development_dependency "mustache"
 end

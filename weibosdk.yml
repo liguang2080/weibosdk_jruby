@@ -1,0 +1,8 @@
+development:
+  key: 868316679
+  secret: b454008c216a392cc0548fd9fab8ae21
+  app_url: "http://apps.weibo.com/ichihuo_dev"
+production:
+  key: 2926823099
+  secret: dc4674156a7e18489aaa1fca03bbd8d4
+  app_url: "http://apps.weibo.com/ichihuo"
